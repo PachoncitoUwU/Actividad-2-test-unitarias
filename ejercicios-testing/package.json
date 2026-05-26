@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios-testing",
+  "version": "1.0.0",
+  "description": "Ejercicios prácticos de testing con Jest",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
